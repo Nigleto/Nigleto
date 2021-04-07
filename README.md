@@ -1,4 +1,6 @@
-### Resume Projects
+**Hey dude 😎!** Hope you're having a fantastic time looking at my profile! My name is Nigel Purvis, and I am learning front end and back end development as of right now! 
+
+### Resume Projects/Courses
 
 - Coursera Course
   - Programming for Everybody (Getting Started with Python) [link](https://www.coursera.org/account/accomplishments/certificate/HSGUJUJNM5A4)
@@ -6,12 +8,13 @@
   - Using Python to Access Web Data [link](https://www.coursera.org/account/accomplishments/certificate/CC4Q97MFZJD9)
   - Using Databases with Python [link](https://www.coursera.org/account/accomplishments/certificate/UNCCT34CL8NK)
   - Capstone: Retrieving, Processing, and Visualizing Data with Python [link](https://www.coursera.org/account/accomplishments/certificate/989CAQYQ5NKQ)
-  - tech stack: Python, JSON, SQL
 
-### projects for fun
+- Still In The Works
+  - Stock Trader (Python, Flask)
+
+### Projects for Fun
 
 - A* Pathfinder
-  - A pathfinder
-  - tech stack: Python
+  - A* Pathfinder (Python, PyGame)
 
 
