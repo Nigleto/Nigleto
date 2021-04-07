@@ -1,16 +1,17 @@
-### Hi there 👋
+### Resume Projects
 
-<!--
-**Nigleto/Nigleto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Coursera Course
+  - Programming for Everybody (Getting Started with Python) [link](https://www.coursera.org/account/accomplishments/certificate/HSGUJUJNM5A4)
+  - Python Data Structures [link](https://www.coursera.org/account/accomplishments/certificate/8ZSPA6NV96N6)
+  - Using Python to Access Web Data [link](https://www.coursera.org/account/accomplishments/certificate/CC4Q97MFZJD9)
+  - Using Databases with Python [link](https://www.coursera.org/account/accomplishments/certificate/UNCCT34CL8NK)
+  - Capstone: Retrieving, Processing, and Visualizing Data with Python [link](https://www.coursera.org/account/accomplishments/certificate/989CAQYQ5NKQ)
+  - tech stack: Python, JSON, SQL
 
-Here are some ideas to get you started:
+### projects for fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A* Pathfinder
+  - A pathfinder
+  - tech stack: Python
+
+
