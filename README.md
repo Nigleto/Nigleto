@@ -17,4 +17,6 @@
 - A* Pathfinder
   - A* Pathfinder (Python, PyGame)
 
+## About Me
 
+I am a freshman at AVHS. My main interests right now are Python. My personal projects as of right now consist of a Stock Trader, an A* Pathfinder, and volunteering to teach at PLAY Coding! 
