@@ -1,5 +1,3 @@
-**Hey dude 😎!** Hope you're having a fantastic time looking at my profile! My name is Nigel Purvis, and I am learning front end and back end development as of right now! 
-
 ### Resume Projects/Courses
 
 - Coursera Course
@@ -17,6 +15,3 @@
 - A* Pathfinder
   - A* Pathfinder (Python, PyGame)
 
-## About Me
-
-I am a freshman at AVHS. My main interests right now are Python and Java. My personal projects as of right now consist of a Stock Trader, an A* Pathfinder, and volunteering to teach at PLAY Coding! 
